@@ -1,12 +1,12 @@
-# 🧍 AI-Powered Wearable Posture Monitoring and Correction System for Spinal Health
+# AI-Powered Wearable Posture Monitoring and Correction System for Spinal Health
 
-## 📌 Overview
+##Overview
 
 This project is an AI-powered wearable posture monitoring system designed to detect poor sitting and standing posture in real time. It helps users maintain proper spinal alignment by analyzing body posture using computer vision and providing instant feedback.
 
 ---
 
-## 🎯 Objectives
+##Objectives
 
 - Detect poor posture in real time
 - Monitor neck, shoulder, and spine alignment
@@ -15,7 +15,7 @@ This project is an AI-powered wearable posture monitoring system designed to det
 
 ---
 
-## ✨ Features
+##Features
 
 - Real-time posture detection
 - AI-based body landmark detection
@@ -26,7 +26,7 @@ This project is an AI-powered wearable posture monitoring system designed to det
 
 ---
 
-## 🛠 Technologies Used
+##Technologies Used
 
 - Python
 - OpenCV
@@ -36,7 +36,7 @@ This project is an AI-powered wearable posture monitoring system designed to det
 
 ---
 
-## 📂 Project Structure
+##Project Structure
 
 ```
 posture-monitoring-system
@@ -54,7 +54,7 @@ posture-monitoring-system
 
 ---
 
-## 🚀 Future Improvements
+##Future Improvements
 
 - Raspberry Pi Integration
 - Mobile Application
@@ -63,7 +63,7 @@ posture-monitoring-system
 
 ---
 
-## 👨‍💻 Author
+##Author
 
 Shankar SK
 
